@@ -1,6 +1,7 @@
 import csv, requests, json
 import numpy as np
 
+# data holders
 matches = []
 swap_codes_spaced = []
 num_families = []
