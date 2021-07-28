@@ -1,4 +1,4 @@
-import Bio
+import Bio, Bio.PDB
 
 from Bio.Seq import Seq
 
